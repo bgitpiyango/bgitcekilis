@@ -71,3 +71,9 @@ Geliştirmeler, hata düzeltmeleri veya yeni özellik önerileri için projeyi f
 ---
 
 **Sürüm:** 2.9.2  
+
+
+Kod Bütünlüğü:
+Dosya Hash (SHA-256): 1d48cb23353e4f45b244ceb1304ab6581210eccce50d805167d18386f457866e
+
+Hash Oluşturulma Tarihi: 13.01.2025 14:54:30
